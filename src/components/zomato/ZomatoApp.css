@@ -1,0 +1,35 @@
+body {
+    background: #383030;
+    color: tomato;
+    font-family: 'Noto Sans JP', sans-serif;
+
+    text-shadow: 1px 1px 1px black;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: deeppink;
+    transition: 0.3s;
+}
+
+button {
+    font-weight: 900;
+}
+
+tr {
+    color: hotpink;
+}
+
+td {
+    background: #242020;
+}
+
+hr {
+    background: darkorchid;
+    width: 97%;
+    height: 0.04rem;
+}
